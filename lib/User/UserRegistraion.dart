@@ -15,7 +15,7 @@ class _RegistrationState extends State<Registration> {
       padding: EdgeInsets.all(10.0),
       children: <Widget>[
         Divider(height: 50.0,),
-        Text("Please Enter your Details to Complete SignUp"),
+        Text("Please Enter Your Details to Complete SignUp"),
         Divider(height: 20.0,),
         Container(
           padding: EdgeInsets.all(20.0),
